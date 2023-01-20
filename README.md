@@ -1,2 +1,2 @@
-# New-Resume
-Using Html Resume
+## New-Resume
+*Using Html Resume
